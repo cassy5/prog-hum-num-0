@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+    </head>
+
+    <body>
+<h1 align="center">Prénom: Elisa Nom: Casani </h1>
+<h2 align="center">Licence 3 de Littérature et linguistique françaises et latines </h2>
+<center><img src="./static/img/sorbonne-nouvelle-devise-trapezes.png" width="20%" /><img src="./static/img/photo.png" width="10%" /></center>
+
+<p>Mon CV des trois dernières années :</p>
+<table border="1px">
+    <thead>
+        <tr><th>année universitaire</th><th>Statut</th></tr>
+    </thead>
+    <tbody>
+        <tr><td>2025-2026</td><td>Étudiante en échange Erasmus à la Sorbonne Nouvelle Universite’, Prais 3 - Département de Littérature et linguistique françaises et latines</td></tr>
+        <tr><td>2024-2025</td><td>Étudiante à l’Université des études de Trieste - Département des Langues et littératures Étrangères</td></tr>
+        <tr><td>2023-2024</td><td>Étudiante à l’Université des études de Trieste - Département des Langues et littératures Étrangères</td></tr>
+    </tbody>
+</table>
+
+<p>Voici les cinq derniers livres que j'ai lu :</p>
+<ol>
+    <li><i>Trilogie de la ville de K</i>, Ágota Kristóf, Einaudi</li>
+    <li><i>Le tambur de fer</i>, Günter Grass, Feltrinelli</li>
+    <li><i>El conde Lucanor</i>, Don Juan Manuel, Alianza Editorial</li>
+    <li><i>Circe</i>, Madeline Miller, Feltrinelli</li>
+    <li><i>Beignets de tomates vertes</i>, Fannie Flagg, Rizzoli</li>
+</ol>
+
+<footer>
+  <p><a href="http://www.univ-paris3.fr/">Lien vers le site de Sorbonne Nouvelle.</a></p>
+</footer>
+    </body>
+</html>
